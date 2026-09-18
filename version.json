@@ -1,6 +1,10 @@
 {
-  "version": "0.1.0",
-  "android_version_code": 2,
-  "released": "2026-09-16",
-  "notes": "First tracked version"
+  "version": "0.3.0",
+  "android_version_code": 5,
+  "released": "2026-09-18",
+  "notes": "Too many fixes to count",
+  "downloads": {
+    "windows": "https://www.mediafire.com/file/yu6y9spxw5awlt5/Mantle_Standalone.zip/file",
+    "android": "https://www.mediafire.com/file/bmo9sk7f4px7sp7/Mantle_Standalone.apk/file"
+  }
 }
