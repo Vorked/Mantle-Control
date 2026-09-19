@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
-  "android_version_code": 6,
+  "version": "0.4.1",
+  "android_version_code": 7,
   "released": "2026-09-19",
-  "notes": "Animation and online service fix attempts.",
+  "notes": "Bots taking two turns emergency fix",
   "downloads": {
     "windows": "https://www.mediafire.com/file/yu6y9spxw5awlt5/Mantle_Standalone.zip/file",
     "android": "https://www.mediafire.com/file/bmo9sk7f4px7sp7/Mantle_Standalone.apk/file"
