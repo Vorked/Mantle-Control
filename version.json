@@ -1,8 +1,8 @@
 {
-  "version": "0.5.1",
-  "android_version_code": 9,
+  "version": "0.5.2",
+  "android_version_code": 10,
   "released": "2026-09-22",
-  "notes": "Friends Patch",
+  "notes": "Continued fixes for profile and friend system.",
   "downloads": {
     "windows": "https://www.mediafire.com/file/yu6y9spxw5awlt5/Mantle_Standalone.zip/file",
     "android": "https://www.mediafire.com/file/bmo9sk7f4px7sp7/Mantle_Standalone.apk/file"
